@@ -1,8 +1,8 @@
 # apt-escaleto
 
 this script is for local privilege escalations,
-however this is proto type. so perhaps not really works.
-but test was succes :)
+however this is easy test version. so perhaps not really works to useful.
+but test was succes on my environments:)
 
 python script but, if target machines not installed python, then you need execute commands direct.
 
